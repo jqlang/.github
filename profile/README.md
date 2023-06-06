@@ -2,7 +2,7 @@
 
 This is the jqlang organization.  We're hoping that Stephen Dolan will take notice and approve of it and our intent to host two repositories in this org:
  - jqlang/spec -- a specification for the jq programming language
- - jqlang/jq -- a new canonical source for the C implementation of jq that is currently at https://github.com/stedolan/jq/
+ - jqlang/jq -- a new canonical source for the C implementation of jq (that was https://github.com/stedolan/jq/)
  
  # Motivation
  
